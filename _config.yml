@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "kr-KOR"
+locale                   : "k"
 title                    : "준서파파_개발기"
 title_separator          : "-"
 name                     : "SylphChoi"
